@@ -13,9 +13,9 @@ I'm a passionate Software Engineer with love for databases and distributed syste
 - ❤️  In love with databases and distributed systems. Currently working on query optimization and Cockroach DB.
 
 - 💬 Most of my repositories are private. Links to the private repos are below.
-  - Taco DB - A single threaded database in C++ -> https://gitfront.io/r/blazeey/YprZqMG3tyfp/Taco-DB/
-  - RAID - A scalable Machine Learning training platform -> https://gitfront.io/r/blazeey/YfHrivTNE2pC/RAID/
-  - Key Value Store - A multi threaded key value store using Raft -> https://gitfront.io/r/blazeey/64Y6rHVV2oVk/raft-key-value-store/
+  - Taco DB - A single threaded database in C++
+  - RAID - A scalable Machine Learning training platform
+  - Key Value Store - A multi threaded key value store using Raft
 
 
 <br />
